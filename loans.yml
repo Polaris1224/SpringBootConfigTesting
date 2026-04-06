@@ -5,6 +5,6 @@ loans:
   message: "Welcome to EazyBank loans related local APIs"
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    email: "{cipher} 042141dcf641d736e03fb692c0e48feb3ddb72b309df4de99858f6a62f4a9aa8e7835a5df24edb15cf30d966525c9af3"
   onCallSupport:
     -(555)555-5678
